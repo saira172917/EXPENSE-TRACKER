@@ -90,4 +90,4 @@ SAIRA MARIA JACOB
 - GitHub: [saira172917](https://github.com/saira172917/EXPENSE-TRACKER.git)
 
 
-This project is available for learning and personal portfolio use. Add a formal open-source license if you want to specify permissions for reuse and distribution.
+This project is available for learning and personal portfolio use. Give credits while using
